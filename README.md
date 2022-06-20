@@ -9,7 +9,7 @@ Applications Required
 
 Instructions to run Cypress tests
 
-Dwonload and install node.js for windows from https://nodejs.org/en/download/
+Download and install node.js for windows from https://nodejs.org/en/download/
 
 Clone project from git hub https://github.com/hyqadri/demo.git to any local drive e.g. D:/
 

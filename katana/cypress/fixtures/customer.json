@@ -1,0 +1,17 @@
+{
+    "firstname": "Victor",
+    "lastname":"Valencia",
+    "phone": "1-701-362-5618",
+    "shippingPhone": "1-701-362-5619",
+    "email": "donec@hotmail.couk",
+    "address1": "94530 Shelley Lane",
+    "address2": "Ap #713-1812 Mus. St.",
+    "shippingAddress":"9500 Turkey Lake Road",
+    "company":"Computer House",
+    "shippingCompany":"Micro Int",
+    "comment":"priority customer",
+    "city":"San Jose",
+    "state":"California",
+    "zipCode":"94530",
+    "country":"United States"  
+}
